@@ -1,2 +1,2 @@
-# PUI2017_dhi211
-This is a test for my readme file.
+# HW1_2
+This is the README file for PUI Homework 1, Task 2.
