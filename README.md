@@ -1,6 +1,4 @@
-# HW1_2
-This is the README file for PUI Homework 1, Task 2.
+# WELCOME TO MY REPO!! (PUI2017_dhi211)
+Welcome to my README.md for the repo PUI2017_dhi211
 
-
-![Alt text](Users/davidives/Documents/CUSP/PUI/PUI2017/SCREENSHOT_1.png)
-/Users/davidives/Documents/CUSP/PUI/PUI2017/SCREENSHOT_1.png
+In here is a folder with information related to HW1_2
