@@ -13,5 +13,15 @@ Below you can see that the alias was correctly created:
 
 ![Alt text](SCREENSHOTS/SCREENSHOT_PUI2017.png)
 
+#HAHA!
+ I didn't fully read the instructions(I _apologize_!). The text above was edited on the GitHub remote repository. However, this text was added in my local enviornment via Terminal.
+
+I will not enter the following functions to have it added to GitHub:
+git add README.md
+git commit -m 'This will be a comment'
+git push
+
+
+
 
 
