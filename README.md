@@ -3,8 +3,8 @@ Welcome to my README.md for the repo PUI2017_dhi211
 
 In here is a folder with information related to HW1
 
-FYI I added the README.md file from HW1_dhi211 because I was unclear about the format you wanted this to be saved in. 
-I do not think you want me to put this here, but I'm doing so to cover my bases.
+FYI I added the text from README.md file from HW1_dhi211 because I was unclear about the format you wanted this to be saved in. 
+I do not think you want me to put this here, but I'm doing so to cover my bases.  :)
 
 
 # HW1_2
