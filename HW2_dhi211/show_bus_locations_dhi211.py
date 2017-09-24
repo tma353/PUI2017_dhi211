@@ -4,6 +4,8 @@ import pandas as pd
 import os
 import numpy as np
 import urllib2
+#for python 3.6 on my computer, a conversion is needed. (see next line of code, and # previous line)
+#import urllib.request as urllib2
 import sys
 import json
 
