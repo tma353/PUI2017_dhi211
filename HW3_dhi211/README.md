@@ -14,6 +14,7 @@ I used a different distribution for my 5th plot. I used the Wald (or reverse Gau
 
 
 HW3_2 
+I worked with Srikanth and Imran.
 For this one I worked by my self to set up the data. However, using the skeleton data did not work so cleanly. Srikanth helped me resolve ways to draw the data into my notebook and walk through the intracacies of the code. We then came up with the hypothesis and null hypothesis.
 
 
@@ -22,7 +23,8 @@ Srikanth and I could not cleanly extract the data from the reduced dataframe, so
 
 
 HW3_3
-This third one I looked at the presentation from class. Srikanth made a very clean way of naming the data. 
+I worked with Srikanth and Imran.
+This third one I looked at the presentation from class. Srikanth made a very clean way of naming the data. I used a similar naming system.
 
 
 FOR NEXT TIME:
